@@ -1,3 +1,0 @@
-<?pht
-
-phpinfo();
